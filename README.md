@@ -1,12 +1,14 @@
-### 🛠️ Featured Projects
+## Featured Projects
 
-- [CEMA](https://github.com/Rusuf/CEMA) — Community Event Management App
-- [StreamTip](https://github.com/Rusuf/StreamTip) — Real-time streaming tip platform
-- [meal-planner](https://github.com/Rusuf/meal-planner) — Smart meal planning tool
-- [Vetstuff](https://github.com/Rusuf/Vetstuff) — Veterinary clinic management
-- [WorkIBL](https://github.com/Rusuf/WorkIBL) — Work-based learning platform
-- [Olaiserr-Mobile](https://github.com/Rusuf/Olaiserr-Mobile) — Mobile app for Olaiserr
-- [MyPortfolio](https://github.com/Rusuf/MyPortfolio) — My personal portfolio site
-- [QAI-ProjectRusuf](https://github.com/Rusuf/QAI-ProjectRusuf) — AI-powered project
+A selection of my recent and impactful work:
 
-And more on my [GitHub profile](https://github.com/Rusuf?tab=repositories). 
+- [CEMA](https://github.com/Rusuf/CEMA) — Platform for managing community events and engagement.
+- [StreamTip](https://github.com/Rusuf/StreamTip) — Real-time tipping and support system for streamers.
+- [meal-planner](https://github.com/Rusuf/meal-planner) — Intelligent tool for personalized meal planning and nutrition tracking.
+- [Vetstuff](https://github.com/Rusuf/Vetstuff) — Comprehensive management solution for veterinary clinics.
+- [WorkIBL](https://github.com/Rusuf/WorkIBL) — Platform supporting work-based learning and professional development.
+- [Olaiserr-Mobile](https://github.com/Rusuf/Olaiserr-Mobile) — Mobile application for the Olaiserr ecosystem.
+- [MyPortfolio](https://github.com/Rusuf/MyPortfolio) — Interactive showcase of my skills, experience, and projects.
+- [QAI-ProjectRusuf](https://github.com/Rusuf/QAI-ProjectRusuf) — AI-driven project for advanced data analysis and automation.
+
+Explore more on my [GitHub profile](https://github.com/Rusuf?tab=repositories). 
