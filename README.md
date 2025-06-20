@@ -1,12 +1,51 @@
 <div align="center">
-  <img src="images/souff.png" alt="Mathwaque Rufus" width="250" style="border-radius: 50%;" />
+
+<pre>
+██████╗ ██╗   ██╗███████╗██╗   ██╗███████╗
+██╔══██╗██║   ██║██╔════╝██║   ██║██╔════╝
+██████╔╝██║   ██║███████╗██║   ██║███████╗
+██╔══██╗██║   ██║╚════██║██║   ██║╚════██║
+██║  ██║╚██████╔╝███████║╚██████╔╝███████║
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝
+</pre>
+
+<a href="https://github.com/Rusuf">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Software+Engineer+from+Nairobi...;Turning+ideas+into+real-world+solutions...;Fueled+by+coffee+and+curiosity." alt="Typing SVG" />
+</a>
+
 </div>
 
-<h1 align="center"><code>Mathwaque Rufus</code> 👨‍💻</h1>
+<br>
 
-## ✨ About Me ✨
-
-Hey there! 👋 I'm a Software Engineer who loves turning complex problems into elegant, real-world solutions. While I'm a full-stack developer, I have a special interest in Rust and Python. My toolkit also includes Go, TypeScript, JavaScript, React, and Node.js. I'm also cooking up some cool things with the teams at @Vibros.
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>
+        <b>✨ About Me ✨</b>
+      </h3>
+      <p>
+        Hey there! 👋 I'm a full-stack developer who loves turning complex problems into elegant, real-world solutions. My playground is the full stack, but I have a special interest in <b>Rust</b> and <b>Python</b>. My toolkit also includes <b>Go</b>, <b>TypeScript</b>, <b>JavaScript</b>, <b>React</b>, and <b>Node.js</b>. I'm also cooking up some cool things with the teams at @MealLensAI and @Soufxide.
+      </p>
+      <hr>
+      <h3>
+        <b>🛠️ Tech Stack 🛠️</b>
+      </h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+      </p>
+    </td>
+    <td width="35%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rusuf&show_icons=true&theme=tokyonight&border_radius=5&border_color=339933" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects 🚀
 
@@ -17,23 +56,7 @@ A curated selection of my most impactful work:
 - **[WorkIBL](https://github.com/Rusuf/WorkIBL)** — Platform supporting work-based learning and professional development.
 - **[MyPortfolio](https://github.com/Rusuf/MyPortfolio)** — Interactive showcase of my skills, experience, and projects.
 - **[SibasiTodoList](https://github.com/Rusuf/SibasiTodoList)** — A simple and effective to-do list application.
-- **[QAI-ProjectRusuf](https://github.com/Rusuf/QAI-ProjectRusuf)** — AI-driven project for advanced data analysis and automation.
-- **[TipXlove](https://github.com/Rusuf/TipXlove)** — A tipping platform for content creators.
-- **[web-app](https://github.com/Rusuf/web-app)** — A modern web application built with the latest technologies.
 - **[blog](https://github.com/Rusuf/blog)** — My personal blog where I share my thoughts on technology.
-
-## 🛠️ Tech Stack 🛠️
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-</p>
 
 ## 📫 Connect With Me 📫
 
@@ -47,12 +70,6 @@ A curated selection of my most impactful work:
   <a href="https://twitter.com/rufusxtra">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</p>
-
-## 📊 GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rusuf&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
