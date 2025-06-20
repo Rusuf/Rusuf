@@ -6,7 +6,7 @@
 
 ## ✨ About Me ✨
 
-Hey there! 👋 I'm a Software Engineer who loves turning complex problems into elegant, real-world solutions. While I'm a full-stack developer, I have a special interest in Rust and Python. My toolkit also includes Go, JavaScript, React, and Node.js. I'm also cooking up some cool things with the teams at @Vibros.
+Hey there! 👋 I'm a Software Engineer who loves turning complex problems into elegant, real-world solutions. While I'm a full-stack developer, I have a special interest in Rust and Python. My toolkit also includes Go, TypeScript, JavaScript, React, and Node.js. I'm also cooking up some cool things with the teams at @Vibros.
 
 ## 🚀 Featured Projects 🚀
 
