@@ -1,50 +1,62 @@
-# Mathwaque Rufus 👨‍💻
+<div align="center">
+  <img src="images/souff.png" alt="Mathwaque Rufus" width="250" style="border-radius: 50%;" />
+</div>
 
-<img src="images/souff.png" alt="Mathwaque Rufus" width="250" style="border-radius: 50%;" />
+<h1 align="center"><code>Mathwaque Rufus</code> 👨‍💻</h1>
 
-## 👤 About Me
+## ✨ About Me ✨
 
-Junior Software Engineer with a passion for building innovative solutions that solve real-world problems.
-I specialize in full-stack development with expertise in JavaScript, React, Node.js, and cloud technologies.
+Hey there! 👋 I'm a Software Engineer who loves turning complex problems into elegant, real-world solutions. While I'm a full-stack developer, I have a special interest in Rust and Python. My toolkit also includes Go, JavaScript, React, and Node.js. I'm also cooking up some cool things with the teams at @Vibros.
 
-## 💼 Featured Projects
+## 🚀 Featured Projects 🚀
 
 A curated selection of my most impactful work:
 
-- **[StreamTip](https://github.com/Rusuf/StreamTip)** — Real-time tipping and support system for streamers.
 - **[meal-planner](https://github.com/Rusuf/meal-planner)** — Intelligent tool for personalized meal planning and nutrition tracking.
-- **[CEMA](https://github.com/Rusuf/CEMA)** — Platform for managing community events and engagement.
-- **[Vetstuff](https://github.com/Rusuf/Vetstuff)** — Comprehensive management solution for veterinary clinics.
+- **[CEMA](https://github.com/Rusuf/CEMA)** — A basic health management app.
 - **[WorkIBL](https://github.com/Rusuf/WorkIBL)** — Platform supporting work-based learning and professional development.
-- **[Olaiserr-Mobile](https://github.com/Rusuf/Olaiserr-Mobile)** — Mobile application for the Olaiserr ecosystem.
 - **[MyPortfolio](https://github.com/Rusuf/MyPortfolio)** — Interactive showcase of my skills, experience, and projects.
+- **[SibasiTodoList](https://github.com/Rusuf/SibasiTodoList)** — A simple and effective to-do list application.
 - **[QAI-ProjectRusuf](https://github.com/Rusuf/QAI-ProjectRusuf)** — AI-driven project for advanced data analysis and automation.
+- **[TipXlove](https://github.com/Rusuf/TipXlove)** — A tipping platform for content creators.
+- **[web-app](https://github.com/Rusuf/web-app)** — A modern web application built with the latest technologies.
+- **[blog](https://github.com/Rusuf/blog)** — My personal blog where I share my thoughts on technology.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🛠️
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</p>
 
-## 📫 Connect With Me
+## 📫 Connect With Me 📫
 
-- 📧 **Email**: [mathwaquerufus@gmail.com](mailto:mathwaquerufus@gmail.com)
-- 📱 **Phone**: +254758503824
-- 💼 **LinkedIn**: [Mathwaque Rufus](https://linkedin.com/in/mathwaque-rufus)
-- 🐦 **Twitter**: [@rufusxtra](https://twitter.com/rufusxtra)
-- 🌐 **Website**: [www.mathwaque-rufus.com](https://www.mathwaque-rufus.com)
+<p align="center">
+  <a href="mailto:mathwaquerufus@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/mathwaque-rufus">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/rufusxtra">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rusuf&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rusuf&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
 
 ---
 
-✨ [Explore more on my GitHub profile](https://github.com/Rusuf?tab=repositories) ✨ 
+<p align="center">
+  ✨ <a href="https://github.com/Rusuf?tab=repositories">Explore more on my GitHub profile</a> ✨ 
+</p> 
