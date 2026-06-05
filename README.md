@@ -37,7 +37,7 @@ Live creator tipping platform built with Flask, Node.js, WebSockets, React, M-Pe
 **[Creasanaa Platform](https://www.creasanaa.com/)**  
 Creator-brand marketplace built with Laravel, React, Inertia, PostgreSQL, DigitalOcean, Meta APIs, and Mux. The system supports creator discovery, campaign workflows, verification, content review, and brand operations.
 
-**AI Market Intelligence Backend**  
+**[SamzDixon Technologies](https://www.samzdixon.tech/) / AI Market Intelligence Backend**  
 Rust backend integrated into a PHP production system for low-latency structured data processing and client-facing market intelligence workflows.
 
 **Healthcare Information System**  
