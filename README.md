@@ -1,81 +1,62 @@
 <div align="center">
-  <img src="images/souff.png" alt="Mathwaque Rufus" width="200" style="border-radius: 50%;" />
-  <h1 align="center">Mathwaque Rufus</h1>
+  <img src="images/Souf66.png" alt="Mathwaque Rufus" width="160" />
+
+  <h1>Mathwaque Rufus</h1>
+
+  <p>
+    Software Engineer · Full-Stack · Production Systems · Founder
+  </p>
+
+  <p>
+    <a href="https://nitip.africa">Website</a> ·
+    <a href="https://github.com/Rusuf">GitHub</a> ·
+    <a href="https://linkedin.com/in/rufus-mathwaque">LinkedIn</a> ·
+    <a href="mailto:mathwaquerufus@gmail.com">Email</a>
+  </p>
 </div>
 
-<div align="center">
-  <h3>Hey there! 👋</h3>
-  <p>I'm a full-stack developer who loves turning complex problems into elegant, real-world solutions. My playground is the full stack, but I have a special interest in <b>Rust</b> and <b>Python</b>. My toolkit also includes <b>Go</b>, <b>TypeScript</b>, <b>JavaScript</b>, <b>React</b>, and <b>Node.js</b>.</p>
-</div>
+I build and operate production systems across backend, frontend, infrastructure, payments, real-time event delivery, and third-party API integrations.
 
-<br>
+I founded **[NiTip Africa](https://nitip.africa)**, a live streaming companion platform that helps African creators receive instant M-Pesa tips during livestreams, with real-time OBS alerts, WebSocket pipelines, creator dashboards, and production deployment infrastructure.
 
-<h2 align="center">🚀 Featured Projects</h2>
+I also work on **[Creasanaa](https://www.creasanaa.com/)**, a Laravel platform powering creator-brand workflows for 1,000+ creators, including Meta API creator verification, Mux video review flows, campaign tooling, and production operations on DigitalOcean.
 
-<table width="100%" align="center">
-<tr align="center">
-<td width="50%" valign="top">
-<a href="https://github.com/Rusuf/meal-planner"><b>meal-planner</b></a><br>
-<sub>Intelligent tool for personalized meal planning and nutrition tracking.</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Rusuf/CEMA"><b>CEMA</b></a><br>
-<sub>A basic health management app.</sub>
-</td>
-</tr>
-<tr align="center">
-<td width="50%" valign="top">
-<a href="https://github.com/Rusuf/WorkIBL"><b>WorkIBL</b></a><br>
-<sub>Platform supporting work-based learning and professional development.</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Rusuf/MyPortfolio"><b>MyPortfolio</b></a><br>
-<sub>Interactive showcase of my skills, experience, and projects.</sub>
-</td>
-</tr>
-<tr align="center">
-<td width="50%" valign="top">
-<a href="https://github.com/Rusuf/SibasiTodoList"><b>SibasiTodoList</b></a><br>
-<sub>A simple and effective to-do list application.</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Rusuf/blog"><b>blog</b></a><br>
-<sub>My personal blog where I share my thoughts on technology.</sub>
-</td>
-</tr>
-</table>
+## Current Work
 
-<br>
+- Building creator economy infrastructure for African markets
+- Operating real-time M-Pesa payment and livestream alert systems
+- Maintaining Laravel, React, and Inertia production platforms
+- Integrating Meta Graph API, Mux Video API, YouTube APIs, and OAuth flows
+- Working across deployment, reliability, security, and incident response
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## Selected Systems
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-</p>
+**[NiTip Africa](https://nitip.africa)**  
+Live creator tipping platform built with Flask, Node.js, WebSockets, React, M-Pesa Daraja, Docker, Nginx, and Azure. The platform has onboarded active creators and processed over KES 100,000 in creator tips.
 
-<br>
+**[Creasanaa Platform](https://www.creasanaa.com/)**  
+Creator-brand marketplace built with Laravel, React, Inertia, PostgreSQL, DigitalOcean, Meta APIs, and Mux. The system supports creator discovery, campaign workflows, verification, content review, and brand operations.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rusuf&show_icons=true&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Stats"/>
-</p>
+**AI Market Intelligence Backend**  
+Rust backend integrated into a PHP production system for low-latency structured data processing and client-facing market intelligence workflows.
 
-<h2 align="center">📫 Connect With Me</h2>
+**Healthcare Information System**  
+Full-stack FastAPI and PostgreSQL system with secure REST APIs, role-based access control, and automated test coverage.
 
-<p align="center">
-  <a href="mailto:mathwaquerufus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/mathwaque-rufus">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/rufusxtra">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p> 
+## Technical Stack
+
+**Languages:** PHP, Python, JavaScript, TypeScript, Rust, Go  
+**Backend:** Laravel, Flask, FastAPI, Node.js, Express, REST APIs, WebSockets  
+**Frontend:** React, React Native, TypeScript, Tailwind CSS  
+**Infrastructure:** DigitalOcean, Azure, AWS, Docker, Linux, Nginx, GitHub Actions  
+**Data:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase  
+**Integrations:** M-Pesa Daraja, Meta Graph API, Mux Video API, YouTube Data API, OAuth 2.0  
+**Security:** JWT, API keys, secrets management, rate limiting, validation, access controls
+
+## Highlights
+
+- Founder and lead engineer of a production creator payments platform
+- Primary technical resource maintaining a creator-brand marketplace with 1,000+ creators
+- Built production systems involving payments, WebSockets, API integrations, and cloud infrastructure
+- Hackathon winner, February 2025
+- Open source contributor with 20+ public repositories
