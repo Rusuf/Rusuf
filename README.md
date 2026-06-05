@@ -40,8 +40,6 @@ Creator-brand marketplace built with Laravel, React, Inertia, PostgreSQL, Digita
 **[SamzDixon Technologies](https://www.samzdixon.tech/) / AI Market Intelligence Backend**  
 Rust backend integrated into a PHP production system for low-latency structured data processing and client-facing market intelligence workflows.
 
-**Healthcare Information System**  
-Full-stack FastAPI and PostgreSQL system with secure REST APIs, role-based access control, and automated test coverage.
 
 ## Technical Stack
 
